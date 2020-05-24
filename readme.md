@@ -1,0 +1,1 @@
+# use different images to detect different types of polygons
